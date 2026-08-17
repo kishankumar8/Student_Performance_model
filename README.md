@@ -7,7 +7,7 @@ In this repo i make a ml model that predict the studnt performance .
 1. **Collect Dataset** :-
    Student performance ka dataset collect kiya.
 
-2. **Data Cleaning**
+2. **Data Cleaning** :-
    Missing values aur unnecessary data ko handle kiya.
 
 3. **Data Preprocessing**
