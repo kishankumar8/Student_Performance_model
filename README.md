@@ -4,7 +4,7 @@ In this repo i make a ml model that predict the studnt performance .
 
 # Workflow
 
-1. **Collect Dataset**:-
+1. **Collect Dataset** :-
    Student performance ka dataset collect kiya.
 
 2. **Data Cleaning**
